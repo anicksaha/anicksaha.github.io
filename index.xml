@@ -20,14 +20,5 @@
       <description>Thoughts, dreams &amp; fears // WIP</description>
     </item>
     
-    <item>
-      <title>Another blog post this is</title>
-      <link>https://anicksaha.github.io/blog/second/</link>
-      <pubDate>Wed, 25 Jul 2018 17:44:36 -0700</pubDate>
-      
-      <guid>https://anicksaha.github.io/blog/second/</guid>
-      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
-    </item>
-    
   </channel>
 </rss>
